@@ -5,8 +5,8 @@ from a banking institution during the year 2021.
 In this report, I obtained information on the total 
 number of loan applications made, the total amount financed, 
 the amount received from approved loans, 
-and the difference between approved loans (clients who repay loans granted by the bank) 
-and delinquent loans (clients who do not repay loans).
+and the difference between good loans (clients who repay loans granted by the bank) 
+and bad loans (clients who do not repay loans).
 This project also includes SQL queries to verify the values ​​in the final report.
 
 # Software Used
