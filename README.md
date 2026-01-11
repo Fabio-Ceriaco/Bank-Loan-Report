@@ -1,10 +1,13 @@
 # Bank-Loan-Report
 
-This Power BI report Analysis all Loan Application off an Bank entety during 2021 year. 
-In this report I have take insights on Total of Loan Application that have been made,
-the Total of Funded Amount, the Amount Received from success Loans and the deffrent values bettween
-Good Loans (clients that payback the loans gived by the banck) and Bad Loans (clientes that don't payback the loans).
-This project include as well SQL querys to check velus in the final report.
+This Power BI report analyzes all loan applications 
+from a banking institution during the year 2021.
+In this report, I obtained information on the total 
+number of loan applications made, the total amount financed, 
+the amount received from approved loans, 
+and the difference between approved loans (clients who repay loans granted by the bank) 
+and delinquent loans (clients who do not repay loans).
+This project also includes SQL queries to verify the values ​​in the final report.
 
 # Software Used
 
